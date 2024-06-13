@@ -1,4 +1,4 @@
-# Bayesian Inference on Plackett-Luce Model
+# Testing Markov property for an interval censored three-state progressive model
 <p>
     <a href="https://cran.r-project.org/package=Seurat">
         <img src="https://www.r-pkg.org/badges/version/Seurat"
